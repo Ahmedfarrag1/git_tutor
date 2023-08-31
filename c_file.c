@@ -2,7 +2,7 @@
 
 void main(){
     
-    printf("fuck this shit not again");
+    printf("i hate this");
 }
 
 
