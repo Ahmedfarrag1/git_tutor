@@ -2,7 +2,7 @@
 
 void main(){
     
-    printf("i hate this");
+    printf("this is the new branch");
 }
 
 

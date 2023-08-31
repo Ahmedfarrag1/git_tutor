@@ -1,1 +1,2 @@
-print("fuck this shit")
+print("get the hell out of here")
+
